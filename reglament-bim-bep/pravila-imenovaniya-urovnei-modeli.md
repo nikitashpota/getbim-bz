@@ -30,4 +30,4 @@ icon: file-signature
 
 ### Пример расстановки и наименования уровней:
 
-<div align="left"><figure><img src="../.gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure></div>
