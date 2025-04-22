@@ -29,8 +29,10 @@
   * [Правило именования материалов](reglament-bim/pravila-imenovaniya-soderzhimogo-revit/pravilo-imenovaniya-materialov.md)
 * [Требования к ЦИМ](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/README.md)
   * [Требования к Архитектурной модели](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/trebovaniya-k-arkhitekturnoi-modeli.md)
-* [⁉️ Тест: проверка знаний по регламенту BIM](reglament-bim/test-proverka-znanii-po-reglamentu-bim.md)
+* [Проверка знаний по регламенту BIM](reglament-bim/test-proverka-znanii-po-reglamentu-bim.md)
 
-## Раздел КР
+## Инструкции
 
-* [Правила моделирования конструктивных элементов](razdel-kr/pravila-modelirovaniya-konstruktivnykh-elementov.md)
+* [Инструкции по моделированию АР](instrukcii/instrukcii-po-modelirovaniyu-ar/README.md)
+  * [Квартирография](instrukcii/instrukcii-po-modelirovaniyu-ar/kvartirografiya.md)
+* [Правила моделирования конструктивных элементов](instrukcii/pravila-modelirovaniya-konstruktivnykh-elementov.md)
