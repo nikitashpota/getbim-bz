@@ -36,10 +36,6 @@
   * [Требования к Архитектурной модели](reglament-bim-bep/rabota-s-cifrovoi-informacionnoi-modelyu/trebovaniya-k-arkhitekturnoi-modeli.md)
 * [⁉️ Тест: проверка знаний по регламенту BIM](reglament-bim-bep/test-proverka-znanii-po-reglamentu-bim.md)
 
-***
-
-* [Раздел КР](razdel-kr.md)
-
 ## Раздел КР
 
-* [Правила моделирования конструктивных элементов](razdel-kr-1/pravila-modelirovaniya-konstruktivnykh-elementov.md)
+* [Правила моделирования конструктивных элементов](razdel-kr/pravila-modelirovaniya-konstruktivnykh-elementov.md)
