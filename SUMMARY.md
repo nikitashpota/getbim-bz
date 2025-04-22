@@ -39,3 +39,7 @@
 ***
 
 * [Раздел КР](razdel-kr.md)
+
+## Раздел КР
+
+* [Правила моделирования конструктивных элементов](razdel-kr-1/pravila-modelirovaniya-konstruktivnykh-elementov.md)
