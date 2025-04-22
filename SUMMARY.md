@@ -35,4 +35,5 @@
 
 * [Инструкции по моделированию АР](instrukcii/instrukcii-po-modelirovaniyu-ar/README.md)
   * [Инструкция по подсчёту квартирографии](instrukcii/instrukcii-po-modelirovaniyu-ar/instrukciya-po-podschyotu-kvartirografii.md)
-* [Правила моделирования конструктивных элементов](razdel-kr/pravila-modelirovaniya-konstruktivnykh-elementov.md)
+* [Инструкция по моделированию КР](instrukcii/instrukciya-po-modelirovaniyu-kr/README.md)
+  * [Правила моделирования конструктивных элементов](instrukcii/instrukciya-po-modelirovaniyu-kr/pravila-modelirovaniya-konstruktivnykh-elementov.md)
