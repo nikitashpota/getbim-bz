@@ -35,3 +35,7 @@
 * [Работа с цифровой информационной моделью](reglament-bim-bep/rabota-s-cifrovoi-informacionnoi-modelyu/README.md)
   * [Требования к Архитектурной модели](reglament-bim-bep/rabota-s-cifrovoi-informacionnoi-modelyu/trebovaniya-k-arkhitekturnoi-modeli.md)
 * [⁉️ Тест: проверка знаний по регламенту BIM](reglament-bim-bep/test-proverka-znanii-po-reglamentu-bim.md)
+
+***
+
+* [Раздел КР](razdel-kr.md)
