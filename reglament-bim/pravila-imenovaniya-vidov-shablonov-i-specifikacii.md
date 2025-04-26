@@ -8,7 +8,7 @@ icon: file-signature
 
 **Схема именования вида:**
 
-<div align="left"><figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 | №   | Поле               | Обязательность                           | Описание                                                       |
 | --- | ------------------ | ---------------------------------------- | -------------------------------------------------------------- |
@@ -51,7 +51,7 @@ icon: file-signature
 
 Шаблон вида именуется аналогично видам. **Схема именования:**
 
-<div align="left"><figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt="" width="353"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="353"><figcaption></figcaption></figure></div>
 
 Описание полей см. в разделе [Правила именования видов](pravila-imenovaniya-vidov-shablonov-i-specifikacii.md#pravila-imenovaniya-vidov)
 
