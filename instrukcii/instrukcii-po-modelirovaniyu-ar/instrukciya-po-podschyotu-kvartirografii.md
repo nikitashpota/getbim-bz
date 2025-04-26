@@ -53,7 +53,7 @@ coverY: 0
 
     * Используйте нод «Выбор помещений», чтобы выбрать группу помещений на виде. Это может быть одна квартира или все помещения на этаже.
 
-    <div align="left"><figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
 3.  **Настройка округления**:
 
     * Нод «Округлить до \_ знаков» определяет точность расчёта площадей:
@@ -83,7 +83,7 @@ coverY: 0
 
 **Пример**: Скриншот заполненных параметров после работы плагина.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Марки и аннотации квартирографии
 

@@ -1,13 +1,36 @@
 # Поворот вида на плане
 
+Для поворота вида необходимо повернуть область подрезки на противоположный угол от желаемого. Например, вместо поворота на 72 градуса поверните на -72 градуса.
 
+1. Включите область подрезки:
+   * Выберите вид.
+   * В свойствах вида или на панели управления видом включите опцию «Обрезать вид».
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="331"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="331"><figcaption><p>Панель управления видом</p></figcaption></figure></div>
+
+<div align="left"><figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption><p>Свойства вида</p></figcaption></figure></div>
+
+В данном примере мы повернем здание и вид, так чтобы ось 3/18.М была вертикальна относительно вида.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
+Чтобы стена (зелёная линия) стала строго вертикальной на виде, выполните следующие действия:
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure></div>
+1. Постройте аннотационную линию (синяя линия) строго вертикально вниз. Угол наклона стены определит угол поворота.
+2. Отзеркальте синюю линию относительно стены (зелёная линия). Получится красная линия — она покажет противоположный угол поворота.
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+1. Выделите область подрезки.
+2. Перенесите центр поворота в точку пересечения синей, красной и зелёной линий.
+3. Поверните область подрезки так, чтобы зелёная линия совпала с красной.
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+Вид будет повёрнут на нужный угол.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+### <mark style="color:red;">Предупреждение</mark>
+
+<mark style="color:red;">Не рекомендуется поворачивать вид на углы, не кратные 90 градусам, без аннотаций. Это может привести к ошибкам: стены и другие элементы станут непараллельными, что осложнит моделирование.</mark>
