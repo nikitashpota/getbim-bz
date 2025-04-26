@@ -34,7 +34,8 @@
 ## Инструкции
 
 * [Общие инструкции](instrukcii/obshie-instrukcii/README.md)
-  * [Поворот вида на плане](instrukcii/obshie-instrukcii/povorot-vida-na-plane.md)
+  * [Инструкции для видов и оформления](instrukcii/obshie-instrukcii/instrukcii-dlya-vidov-i-oformleniya/README.md)
+    * [Поворот вида на плане](instrukcii/obshie-instrukcii/instrukcii-dlya-vidov-i-oformleniya/povorot-vida-na-plane.md)
 * [Инструкции по моделированию АР](instrukcii/instrukcii-po-modelirovaniyu-ar/README.md)
   * [Инструкция по подсчёту квартирографии](instrukcii/instrukcii-po-modelirovaniyu-ar/instrukciya-po-podschyotu-kvartirografii.md)
 * [Инструкция по моделированию КР](instrukcii/instrukciya-po-modelirovaniyu-kr/README.md)
