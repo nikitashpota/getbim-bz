@@ -128,7 +128,7 @@ icon: square-kanban
 
 #### Схема именования рабочего набора:
 
-<div align="left"><figure><img src="../.gitbook/assets/image (7).png" alt="" width="205"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (7) (1).png" alt="" width="205"><figcaption></figcaption></figure></div>
 
 | Параметр            | Обязательность | Описание                                                                                                   |
 | ------------------- | -------------- | ---------------------------------------------------------------------------------------------------------- |
