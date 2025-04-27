@@ -6,7 +6,7 @@
 
 1. Включите область подрезки:
    * Выберите вид на плане.
-   * В окне свойств включите опцию «Обрезать вид» или на [Панели управления видом](https://help.autodesk.com/view/RVT/2017/RUS/?guid=GUID-42872B9F-A4DE-472A-A88C-77879ACEC93E) <img src="../../../.gitbook/assets/image (3).png" alt="" data-size="line">.
+   * В окне свойств включите опцию «Обрезать вид» или на [Панели управления видом](https://help.autodesk.com/view/RVT/2017/RUS/?guid=GUID-42872B9F-A4DE-472A-A88C-77879ACEC93E) <img src="../../../.gitbook/assets/image.png" alt="" data-size="line">.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption><p>Свойства вида</p></figcaption></figure></div>
 
@@ -26,12 +26,12 @@
 ### Шаг 3: Поверните область подрезки
 
 1. Выделите область подрезки.
-2. Используйте инструмент **Повернуть** <img src="../../../.gitbook/assets/image (1).png" alt="" data-size="line">.
+2. Используйте инструмент **Повернуть** <img src="../../../.gitbook/assets/image (1) (1).png" alt="" data-size="line">.
 3. Перенесите центр поворота в точку пересечения синей, красной и зелёной линий.
 4. Поверните область подрезки так, чтобы зелёная линия совпала с красной.
 5. Удалите вспомогательные аннотации.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Вид будет повёрнут на нужный угол.
 
