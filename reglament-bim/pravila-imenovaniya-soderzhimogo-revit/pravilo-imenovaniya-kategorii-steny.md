@@ -2,7 +2,7 @@
 
 ### Схема именования стен
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (18).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (18) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 #### Описание полей
 

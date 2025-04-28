@@ -2,7 +2,7 @@
 
 ### Схема именования типоразмеров загружаемых семейств
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (20).png" alt="" width="281"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (20) (1).png" alt="" width="281"><figcaption></figcaption></figure></div>
 
 #### Описание полей
 

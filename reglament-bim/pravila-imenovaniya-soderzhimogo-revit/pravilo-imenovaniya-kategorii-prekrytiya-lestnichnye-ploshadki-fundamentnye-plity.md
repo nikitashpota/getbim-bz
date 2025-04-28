@@ -2,7 +2,7 @@
 
 ### Схема именования:
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (19).png" alt="" width="286"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (19) (1).png" alt="" width="286"><figcaption></figcaption></figure></div>
 
 #### Описание полей
 

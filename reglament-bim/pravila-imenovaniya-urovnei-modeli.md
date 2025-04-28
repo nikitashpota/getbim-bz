@@ -6,7 +6,7 @@ icon: file-signature
 
 ### Схема именования уровня модели:
 
-<div align="left"><figure><img src="../.gitbook/assets/image (9).png" alt="" width="268"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (9) (1).png" alt="" width="268"><figcaption></figcaption></figure></div>
 
 **Описание параметров:**
 
@@ -30,4 +30,4 @@ icon: file-signature
 
 ### Пример расстановки и наименования уровней:
 
-<div align="left"><figure><img src="../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (10) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>

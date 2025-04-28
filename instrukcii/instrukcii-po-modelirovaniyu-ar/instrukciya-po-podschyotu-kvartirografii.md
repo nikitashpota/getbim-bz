@@ -22,7 +22,7 @@ coverY: 0
 
     **Пример**: Скриншот заполненных параметров «ADSK\_Номер квартиры» в свойствах помещения.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (14).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 1. **Заполнение параметра «ADSK\_Тип помещения»**:
    * Укажите тип помещения для сортировки внутри квартиры:
@@ -42,7 +42,7 @@ coverY: 0
       * МОП – Места общего пользования.
       * НЖ – Нежилые помещения.
 
-    <div align="left"><figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../../.gitbook/assets/image (19).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Процесс подсчёта квартирографии
 
@@ -53,7 +53,7 @@ coverY: 0
 
     * Используйте нод «Выбор помещений», чтобы выбрать группу помещений на виде. Это может быть одна квартира или все помещения на этаже.
 
-    <div align="left"><figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../../.gitbook/assets/image (16).png" alt="" width="188"><figcaption></figcaption></figure></div>
 3.  **Настройка округления**:
 
     * Нод «Округлить до \_ знаков» определяет точность расчёта площадей:
@@ -61,13 +61,13 @@ coverY: 0
       * 2 – До двух знаков после запятой (например, 12,341 → 12,34).
     * По умолчанию используется округление до двух знаков.
 
-    <div align="left"><figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="160"><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../../.gitbook/assets/image (17).png" alt="" width="160"><figcaption></figcaption></figure></div>
 4.  **Режим работы**:
 
     * **Ручной режим**: Запустите плагин после выбора помещений и настройки параметров.
     * **Автоматический режим**: Включите режим «**Автоматически**» для пересчёта квартирографии после каждого изменения планировки выбранных помещений.
 
-    <div align="left"><figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
+    <div align="left"><figure><img src="../../.gitbook/assets/image (18).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ### Результаты подсчёта
 
@@ -83,7 +83,7 @@ coverY: 0
 
 **Пример**: Скриншот заполненных параметров после работы плагина.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (15).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Марки и аннотации квартирографии
 
@@ -91,7 +91,7 @@ coverY: 0
 
 #### Тип 1: «Количество и индекс»
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (8).png" alt="" width="171"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (21).png" alt="" width="171"><figcaption></figcaption></figure></div>
 
 Показывает два параметра:
 
@@ -102,7 +102,7 @@ coverY: 0
 
 #### Тип 2: «Количество комнат»
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (16).png" alt="" width="139"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (22).png" alt="" width="139"><figcaption></figcaption></figure></div>
 
 Показывает только:
 
@@ -113,7 +113,7 @@ coverY: 0
 
 #### Тип 3: «Полная марка»
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (21).png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (23).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 Содержит параметры:
 
