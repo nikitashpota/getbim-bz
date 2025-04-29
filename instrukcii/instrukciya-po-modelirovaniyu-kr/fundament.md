@@ -8,4 +8,4 @@ hidden: true
 
 <figure><img src="../../.gitbook/assets/Фундамент 1.png" alt=""><figcaption></figcaption></figure>
 
-Именовать системные компоненты фундаментов необходимо в соответствии с [правилами наименования системных семейств](../../reglament-bim/editor/pravila-imenovaniya-polzovatelei-v-srede-autodesk.md).
+Именовать системные компоненты фундаментов необходимо в соответствии с [правилами наименования системных семейств](../../reglament-bim/interactive-blocks.md).
