@@ -40,3 +40,4 @@
   * [Инструкция по подсчёту квартирографии](instrukcii/instrukcii-po-modelirovaniyu-ar/instrukciya-po-podschyotu-kvartirografii.md)
 * [Инструкция по моделированию КР](instrukcii/instrukciya-po-modelirovaniyu-kr/README.md)
   * [Железобетонные конструкции](instrukcii/instrukciya-po-modelirovaniyu-kr/zhelezobetonnye-konstrukcii.md)
+  * [Фундамент](instrukcii/instrukciya-po-modelirovaniyu-kr/fundament.md)
