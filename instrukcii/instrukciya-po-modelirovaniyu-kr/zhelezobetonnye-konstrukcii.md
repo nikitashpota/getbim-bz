@@ -14,6 +14,4 @@ hidden: true
 4. Колонна&#x20;
 5. Стена
 
-<figure><img src="../../.gitbook/assets/2025-04-29_13-55-46.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/2025-04-29_13-59-45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-04-29_13-55-465.png" alt=""><figcaption></figcaption></figure>
