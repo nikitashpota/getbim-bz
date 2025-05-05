@@ -37,7 +37,7 @@
   * [Инструкции для видов и оформления](instrukcii/obshie-instrukcii/instrukcii-dlya-vidov-i-oformleniya/README.md)
     * [Поворот вида на плане](instrukcii/obshie-instrukcii/instrukcii-dlya-vidov-i-oformleniya/povorot-vida-na-plane.md)
 * [Инструкции по моделированию АР](instrukcii/instrukcii-po-modelirovaniyu-ar/README.md)
-  * [Правила разделения и сочленения стен](instrukcii/instrukcii-po-modelirovaniyu-ar/pravila-razdeleniya-i-sochleneniya-sten.md)
+  * [Правила разделения стен](instrukcii/instrukcii-po-modelirovaniyu-ar/pravila-razdeleniya-sten.md)
   * [Инструкция по подсчёту квартирографии](instrukcii/instrukcii-po-modelirovaniyu-ar/instrukciya-po-podschyotu-kvartirografii.md)
 * [Инструкция по моделированию КР](instrukcii/instrukciya-po-modelirovaniyu-kr/README.md)
   * [Железобетонные конструкции](instrukcii/instrukciya-po-modelirovaniyu-kr/zhelezobetonnye-konstrukcii.md)
