@@ -37,7 +37,7 @@
 * Объём кладки занижается, так как Revit не разделяет слои при подсчёте.
 * Объём изоляции завышается, что искажает итоговые данные.
 
-<div><figure><img src="../../.gitbook/assets/image (26).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Без имени-1.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/image (26).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/Без имени-1.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 <table><thead><tr><th width="363.42840576171875">Наименование материала</th><th width="199.7139892578125" align="center">Площадь</th><th align="center">Объем</th></tr></thead><tbody><tr><td><mark style="color:green;"><strong>Корректный вариант</strong></mark></td><td align="center"> </td><td align="center"> </td></tr><tr><td>Кирпичная кладка</td><td align="center"><mark style="color:green;">1,88</mark></td><td align="center"><mark style="color:green;">0,23</mark></td></tr><tr><td>Изоляция</td><td align="center"><mark style="color:green;">1,66</mark></td><td align="center"><mark style="color:green;">0,17</mark></td></tr><tr><td><mark style="color:red;"><strong>Некорректный вариант</strong></mark></td><td align="center"> </td><td align="center"> </td></tr><tr><td>Кирпичная кладка</td><td align="center"><mark style="color:red;">1,78</mark></td><td align="center"><mark style="color:red;">0,21</mark></td></tr><tr><td>Изоляция</td><td align="center"><mark style="color:red;">1,78</mark></td><td align="center"><mark style="color:red;">0,18</mark></td></tr></tbody></table>
 

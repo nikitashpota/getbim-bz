@@ -28,7 +28,8 @@
     * [Правило именования типов семейств](reglament-bim/pravila-imenovaniya-soderzhimogo-revit/pravilo-imenovaniya-zagruzhaemykh-semeistv/pravilo-imenovaniya-tipov-semeistv.md)
   * [Правило именования материалов](reglament-bim/pravila-imenovaniya-soderzhimogo-revit/pravilo-imenovaniya-materialov.md)
 * [Требования к ЦИМ](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/README.md)
-  * [Требования к Архитектурной модели](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/trebovaniya-k-arkhitekturnoi-modeli.md)
+  * [Требования к Архитектурной модели](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/trebovaniya-k-arkhitekturnoi-modeli/README.md)
+    * [Правила моделирования стен](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/trebovaniya-k-arkhitekturnoi-modeli/pravila-modelirovaniya-sten.md)
 * [Проверка знаний по регламенту BIM](reglament-bim/test-proverka-znanii-po-reglamentu-bim.md)
 
 ## Инструкции
@@ -37,7 +38,6 @@
   * [Инструкции для видов и оформления](instrukcii/obshie-instrukcii/instrukcii-dlya-vidov-i-oformleniya/README.md)
     * [Поворот вида на плане](instrukcii/obshie-instrukcii/instrukcii-dlya-vidov-i-oformleniya/povorot-vida-na-plane.md)
 * [Инструкции по моделированию АР](instrukcii/instrukcii-po-modelirovaniyu-ar/README.md)
-  * [Правила моделирования стен](instrukcii/instrukcii-po-modelirovaniyu-ar/pravila-modelirovaniya-sten.md)
   * [Инструкция по подсчёту квартирографии](instrukcii/instrukcii-po-modelirovaniyu-ar/instrukciya-po-podschyotu-kvartirografii.md)
 * [Инструкция по моделированию КР](instrukcii/instrukciya-po-modelirovaniyu-kr/README.md)
   * [Железобетонные конструкции](instrukcii/instrukciya-po-modelirovaniyu-kr/zhelezobetonnye-konstrukcii.md)
