@@ -8,7 +8,7 @@ icon: file-signature
 
 **Схема именования вида:**
 
-<div align="left"><figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 <table><thead><tr><th width="49.85711669921875">№</th><th width="183.99993896484375">Поле</th><th width="221.5716552734375">Обязательность</th><th>Описание</th></tr></thead><tbody><tr><td>(1)</td><td>Индекс вида</td><td>Обязательно</td><td>Определяет назначение вида (см. таблицу 1)</td></tr><tr><td>(2)</td><td>Раздел</td><td>Обязательно</td><td>Раздел (или подраздел) проекта</td></tr><tr><td>(3)</td><td>Стадия</td><td>Обязательно для индекса <code>О</code></td><td>Стадия проекта</td></tr><tr><td>(4)</td><td>Зона/Сегмент</td><td>Опционально</td><td>Используется при делении вида на зоны</td></tr><tr><td>(5)</td><td>Уровень с отметкой</td><td>Обязательно для планов этажей и потолков</td><td>Обозначение уровня в формате <code>[Номер уровня]_[Отметка уровня]</code></td></tr><tr><td>(6)</td><td>Код семейства вида</td><td>Обязательно</td><td>Код типа вида (см. таблицу 2)</td></tr><tr><td>(7)</td><td>Описание</td><td>Опционально</td><td>Название вида в штампе</td></tr></tbody></table>
 

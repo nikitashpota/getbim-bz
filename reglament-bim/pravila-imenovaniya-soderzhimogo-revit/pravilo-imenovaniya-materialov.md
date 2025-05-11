@@ -2,7 +2,7 @@
 
 ### Схема именования материала
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="289"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="289"><figcaption></figcaption></figure></div>
 
 <table><thead><tr><th width="100">№</th><th width="166.857177734375">Поле</th><th width="150.285400390625">Обязательность</th><th>Описание</th></tr></thead><tbody><tr><td>(1)</td><td>Имя класса</td><td>Обязательно</td><td>Указывает общий тип материала. См. таблицу 1.5</td></tr><tr><td>(2)</td><td>Индекс</td><td>Обязательно</td><td>Сокращённое название материала. См. таблицу 1.5</td></tr><tr><td>(3)</td><td>Характеристика</td><td>Опционально</td><td>Указывается наименование по каталогу, класс, марка или производитель</td></tr></tbody></table>
 
