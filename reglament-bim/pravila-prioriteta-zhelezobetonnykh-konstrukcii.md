@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# Железобетонные конструкции
+# Правила приоритета железобетонных конструкций
 
 ## Приоритеры соединения конструкций
 
@@ -14,4 +10,4 @@ hidden: true
 4. Колонна&#x20;
 5. Стена
 
-<figure><img src="../../.gitbook/assets/2025-04-29_13-55-465.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-04-29_13-55-465.png" alt=""><figcaption></figcaption></figure>
