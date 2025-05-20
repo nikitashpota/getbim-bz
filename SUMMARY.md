@@ -44,3 +44,4 @@
 * [Инструкция по моделированию КР](instrukcii/instrukciya-po-modelirovaniyu-kr/README.md)
   * [Фундамент](instrukcii/instrukciya-po-modelirovaniyu-kr/fundament.md)
   * [Вертикальные конструкции](instrukcii/instrukciya-po-modelirovaniyu-kr/vertikalnye-konstrukcii.md)
+  * [Горизонтальные конструкции](instrukcii/instrukciya-po-modelirovaniyu-kr/gorizontalnye-konstrukcii.md)
