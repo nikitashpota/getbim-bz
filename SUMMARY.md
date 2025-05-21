@@ -31,7 +31,8 @@
   * [Требования к Архитектурной модели](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/trebovaniya-k-arkhitekturnoi-modeli/README.md)
     * [Правила моделирования стен](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/trebovaniya-k-arkhitekturnoi-modeli/pravila-modelirovaniya-sten.md)
     * [Правила нумерации квартир](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/trebovaniya-k-arkhitekturnoi-modeli/pravila-numeracii-kvartir.md)
-* [Правила приоритета железобетонных конструкций](reglament-bim/pravila-prioriteta-zhelezobetonnykh-konstrukcii.md)
+  * [Требования к Конструктивной модели](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/trebovaniya-k-konstruktivnoi-modeli/README.md)
+    * [Правила приоритета железобетонных конструкций](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/trebovaniya-k-konstruktivnoi-modeli/pravila-prioriteta-zhelezobetonnykh-konstrukcii.md)
 * [Проверка знаний по регламенту BIM](reglament-bim/test-proverka-znanii-po-reglamentu-bim.md)
 
 ## Инструкции
