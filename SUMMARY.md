@@ -33,12 +33,12 @@
     * [Правила нумерации квартир](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/trebovaniya-k-arkhitekturnoi-modeli/pravila-numeracii-kvartir.md)
   * [Требования к Конструктивной модели](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/trebovaniya-k-konstruktivnoi-modeli/README.md)
     * [Правила приоритета железобетонных конструкций](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/trebovaniya-k-konstruktivnoi-modeli/pravila-prioriteta-zhelezobetonnykh-konstrukcii.md)
+  * [Валидация ресурсов цифровой информационной модели](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/validaciya-resursov-cifrovoi-informacionnoi-modeli.md)
 * [Проверка знаний по регламенту BIM](reglament-bim/test-proverka-znanii-po-reglamentu-bim.md)
 
 ## Инструкции
 
 * [Общие инструкции](instrukcii/obshie-instrukcii/README.md)
-  * [Валидация ресурсов цифровой информационной модели](instrukcii/obshie-instrukcii/validaciya-resursov-cifrovoi-informacionnoi-modeli.md)
   * [Инструкции для видов и оформления](instrukcii/obshie-instrukcii/instrukcii-dlya-vidov-i-oformleniya/README.md)
     * [Поворот вида на плане](instrukcii/obshie-instrukcii/instrukcii-dlya-vidov-i-oformleniya/povorot-vida-na-plane.md)
 * [Инструкции по моделированию АР](instrukcii/instrukcii-po-modelirovaniyu-ar/README.md)
