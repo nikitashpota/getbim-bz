@@ -38,6 +38,7 @@
 ## Инструкции
 
 * [Общие инструкции](instrukcii/obshie-instrukcii/README.md)
+  * [Валидация ресурсов цифровой информационной модели](instrukcii/obshie-instrukcii/validaciya-resursov-cifrovoi-informacionnoi-modeli.md)
   * [Инструкции для видов и оформления](instrukcii/obshie-instrukcii/instrukcii-dlya-vidov-i-oformleniya/README.md)
     * [Поворот вида на плане](instrukcii/obshie-instrukcii/instrukcii-dlya-vidov-i-oformleniya/povorot-vida-na-plane.md)
 * [Инструкции по моделированию АР](instrukcii/instrukcii-po-modelirovaniyu-ar/README.md)
