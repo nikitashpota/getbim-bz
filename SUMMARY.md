@@ -29,6 +29,7 @@
   * [Правило именования материалов](reglament-bim/pravila-imenovaniya-soderzhimogo-revit/pravilo-imenovaniya-materialov.md)
 * [Требования к ЦИМ](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/README.md)
   * [Требования к составу ЦИМ](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/trebovaniya-k-sostavu-cim.md)
+  * [Последовательность разработки ЦИМ](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/posledovatelnost-razrabotki-cim.md)
   * [Требования к Архитектурной модели](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/trebovaniya-k-arkhitekturnoi-modeli/README.md)
     * [Правила моделирования стен](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/trebovaniya-k-arkhitekturnoi-modeli/pravila-modelirovaniya-sten.md)
     * [Правила нумерации квартир](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/trebovaniya-k-arkhitekturnoi-modeli/pravila-numeracii-kvartir.md)
