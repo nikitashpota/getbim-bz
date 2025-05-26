@@ -49,3 +49,4 @@
   * [Фундамент](instrukcii/instrukciya-po-modelirovaniyu-kr/fundament.md)
   * [Вертикальные конструкции](instrukcii/instrukciya-po-modelirovaniyu-kr/vertikalnye-konstrukcii.md)
   * [Горизонтальные конструкции](instrukcii/instrukciya-po-modelirovaniyu-kr/gorizontalnye-konstrukcii.md)
+  * [Лестницы](instrukcii/instrukciya-po-modelirovaniyu-kr/lestnicy.md)
