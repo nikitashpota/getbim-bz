@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Лестницы
 
 ### **1. Лестничные марши** <a href="#id-1.-lestnichnye-marshi" id="id-1.-lestnichnye-marshi"></a>
