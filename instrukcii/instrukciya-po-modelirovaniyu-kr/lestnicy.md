@@ -10,7 +10,7 @@ hidden: true
 
 Моделирование лестничных маршей _с отличающейся высотой нижней/верхней ступеней_ от остальных выполняется загружаемым семейством марша категории «Каркас несущий».
 
-### **1.1 Лестничный марш\_Монолитный\_(КаркасНес)** <a href="#id-1.-lestnichnye-marshi" id="id-1.-lestnichnye-marshi"></a>
+### **1.1 ЛММ\_Лестничный марш монолитный** <a href="#id-1.-lestnichnye-marshi" id="id-1.-lestnichnye-marshi"></a>
 
 **Параметры типа** в семействе определяют следующие характеристики марша:
 
@@ -22,7 +22,7 @@ hidden: true
 
 4 – Конструктивная толщина марша.
 
-<div align="right" data-full-width="false"><figure><img src="../../.gitbook/assets/Лестница 22.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Лестница 2.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/2025-05-27_08-40-55.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Лестница 2.png" alt=""><figcaption></figcaption></figure></div>
 
 **Параметры экземпляра** определяют следующие характеристики каждого марша:
 
@@ -38,7 +38,7 @@ hidden: true
 
 6 – Толщина верхнего марша. Параметр необходим для корректного построения геометрии между маршем и плитой;
 
-<figure><img src="../../.gitbook/assets/лестница 23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/лестница 97.png" alt=""><figcaption></figcaption></figure>
 
 <div><figure><img src="../../.gitbook/assets/лестница 25.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/лестница 26.avif" alt=""><figcaption></figcaption></figure></div>
 
@@ -63,4 +63,6 @@ hidden: true
 Лестничные площадки моделируются системными семействами категории «Перекрытия».
 
 Для межэтажных лестничных площадок применяется описание \_Лестничная площадка.
+
+<figure><img src="../../.gitbook/assets/ЛЕСТНИЦА 33.png" alt=""><figcaption></figcaption></figure>
 
