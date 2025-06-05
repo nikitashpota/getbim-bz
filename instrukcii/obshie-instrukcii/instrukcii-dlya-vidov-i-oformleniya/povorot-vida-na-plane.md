@@ -6,7 +6,7 @@
 
 1. Включите область подрезки:
    * Выберите вид на плане.
-   * В окне свойств включите опцию «Обрезать вид» или на [Панели управления видом](https://help.autodesk.com/view/RVT/2017/RUS/?guid=GUID-42872B9F-A4DE-472A-A88C-77879ACEC93E) <img src="../../../.gitbook/assets/image.png" alt="" data-size="line">.
+   * В окне свойств включите опцию «Обрезать вид» или на [Панели управления видом](https://help.autodesk.com/view/RVT/2017/RUS/?guid=GUID-42872B9F-A4DE-472A-A88C-77879ACEC93E) <img src="../../../.gitbook/assets/image (3) (1).png" alt="" data-size="line">.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption><p>Свойства вида</p></figcaption></figure></div>
 
@@ -19,14 +19,14 @@
 Чтобы стена (зелёная линия) или ось (например, ось 3/18.М) стала вертикальной на виде, выполните следующие действия:
 
 1. Постройте аннотационную линию (<mark style="color:blue;">синяя линия</mark>) строго вертикально вниз от точки на стене. В дальнейшем стена будет повернута по синий линии.
-2. Отзеркальте <img src="../../../.gitbook/assets/image (3).png" alt="" data-size="line"> синюю линию относительно стены (<mark style="color:green;">зелёная линия</mark>). Получится <mark style="color:red;">красная линия</mark>, она покажет противоположный угол поворота.
+2. Отзеркальте <img src="../../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> синюю линию относительно стены (<mark style="color:green;">зелёная линия</mark>). Получится <mark style="color:red;">красная линия</mark>, она покажет противоположный угол поворота.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Шаг 3: Поверните область подрезки
 
 1. Выделите область подрезки.
-2. Используйте инструмент **Повернуть** <img src="../../../.gitbook/assets/image (2).png" alt="" data-size="line">.
+2. Используйте инструмент **Повернуть** <img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line">.
 3. Перенесите центр поворота в точку пересечения синей, красной и зелёной линий.
 4. Поверните область подрезки так, чтобы зелёная линия совпала с красной.
 5. Удалите вспомогательные аннотации.
@@ -37,6 +37,6 @@
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (12).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-### <mark style="background-color:red;">Предупреждение</mark>
-
-<mark style="background-color:red;">Не рекомендуется поворачивать вид на углы, не кратные 90 градусам, без аннотаций. Это может привести к ошибкам: стены и другие элементы станут непараллельными, что осложнит моделирование.</mark>
+{% hint style="danger" %}
+Не рекомендуется поворачивать вид на углы, не кратные 90 градусам, без аннотаций. Это может привести к ошибкам: стены и другие элементы станут непараллельными, что осложнит моделирование.
+{% endhint %}

@@ -8,7 +8,7 @@ icon: file-signature
 
 **Схема именования вида:**
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="65">№</th><th width="173">Поле</th><th width="227">Обязательность</th><th>Описание</th></tr></thead><tbody><tr><td>(1)</td><td>Индекс вида</td><td>Обязательно</td><td>Определяет назначение вида (см. таблицу 1)</td></tr><tr><td>(2)</td><td>Раздел</td><td>Обязательно</td><td>Раздел (или подраздел) проекта</td></tr><tr><td>(3)</td><td>Стадия</td><td>Обязательно для индекса <code>О</code></td><td>Стадия проекта</td></tr><tr><td>(4)</td><td>Уровень с отметкой</td><td>Обязательно для планов этажей и потолков</td><td>Обозначение уровня в формате <code>[Номер уровня]_[Отметка уровня]</code></td></tr><tr><td>(5)</td><td>Код семейства вида</td><td>Обязательно</td><td>Код типа вида (см. таблицу 2)</td></tr><tr><td>(6)</td><td>Описание</td><td>Опционально</td><td>Название вида в штампе</td></tr></tbody></table>
 
@@ -24,7 +24,7 @@ icon: file-signature
 
 Шаблон вида именуется аналогично видам. **Схема именования:**
 
-<figure><img src="../.gitbook/assets/image (29).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Описание полей см. в разделе [Правила именования видов](pravila-imenovaniya-vidov-shablonov-i-specifikacii.md#pravila-imenovaniya-vidov)
 
@@ -32,7 +32,7 @@ icon: file-signature
 
 **Схема именования спецификации:**
 
-<figure><img src="../.gitbook/assets/image (28).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="65">№</th><th width="145">Поле</th><th width="170">Обязательность</th><th>Описание</th></tr></thead><tbody><tr><td>(1)</td><td>Индекс вида</td><td>Обязательно</td><td>Определяет назначение вида (см. таблицу 1)</td></tr><tr><td>(2)</td><td>Раздел</td><td>Обязательно</td><td>Раздел проекта</td></tr><tr><td>(3)</td><td>Стадия</td><td>Опционально</td><td>Указывается для сортировки</td></tr><tr><td>(4)</td><td>Индекс уровня</td><td>Опционально</td><td>Используется в случае необходимости</td></tr><tr><td>(6)</td><td>Описание</td><td>Опционально</td><td>Название спецификации в штампе</td></tr></tbody></table>
 
@@ -42,13 +42,9 @@ icon: file-signature
 
 **Схема именования типа вида:**
 
-<figure><img src="../.gitbook/assets/image (25).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
-| №   | Поле        | Обязательность | Описание                                            |
-| --- | ----------- | -------------- | --------------------------------------------------- |
-| (1) | Индекс вида | Обязательно    | Определяет назначение вида (см. таблицу 1)          |
-| (2) | Стадия      | Опционально    | Используется для детальной сортировки               |
-| (3) | Описание    | Обязательно    | Краткое описание типа вида или применяемого шаблона |
+<table><thead><tr><th width="63">№</th><th>Поле</th><th>Обязательность</th><th>Описание</th></tr></thead><tbody><tr><td>(1)</td><td>Индекс вида</td><td>Обязательно</td><td>Определяет назначение вида (см. таблицу 1)</td></tr><tr><td>(2)</td><td>Стадия</td><td>Опционально</td><td>Используется для детальной сортировки</td></tr><tr><td>(3)</td><td>Описание</td><td>Обязательно</td><td>Краткое описание типа вида или применяемого шаблона</td></tr></tbody></table>
 
 #### Примеры:
 
