@@ -24,7 +24,7 @@ icon: file-signature
 
 Шаблон вида именуется аналогично видам. **Схема именования:**
 
-<figure><img src="../.gitbook/assets/image (27).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Описание полей см. в разделе [Правила именования видов](pravila-imenovaniya-vidov-shablonov-i-specifikacii.md#pravila-imenovaniya-vidov)
 
