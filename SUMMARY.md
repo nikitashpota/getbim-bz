@@ -50,3 +50,4 @@
   * [Вертикальные конструкции](instrukcii/instrukciya-po-modelirovaniyu-kr/vertikalnye-konstrukcii.md)
   * [Горизонтальные конструкции](instrukcii/instrukciya-po-modelirovaniyu-kr/gorizontalnye-konstrukcii.md)
   * [Лестницы](instrukcii/instrukciya-po-modelirovaniyu-kr/lestnicy.md)
+  * [Копирование железобетонных конструкций из модели АР](instrukcii/instrukciya-po-modelirovaniyu-kr/kopirovanie-zhelezobetonnykh-konstrukcii-iz-modeli-ar.md)
