@@ -16,7 +16,7 @@
 * [9. Организация и правила именования рабочих наборов](reglament-bim/organizaciya-i-pravila-imenovaniya-rabochikh-naborov.md)
 * [10. Правила именования содержимого Revit](reglament-bim/pravila-imenovaniya-soderzhimogo-revit/README.md)
   * [10.1 Правило именования категории "Стены"](reglament-bim/pravila-imenovaniya-soderzhimogo-revit/pravilo-imenovaniya-kategorii-steny.md)
-  * [10.2 Правило именования категории "Прекрытия", "Лестничные площадки", "Фундаментные плиты"](reglament-bim/pravila-imenovaniya-soderzhimogo-revit/pravilo-imenovaniya-kategorii-prekrytiya-lestnichnye-ploshadki-fundamentnye-plity.md)
+  * [10.2 Правило именования категории "Перекрытия", "Лестничные площадки", "Фундаментные плиты"](reglament-bim/pravila-imenovaniya-soderzhimogo-revit/pravilo-imenovaniya-kategorii-prekrytiya-lestnichnye-ploshadki-fundamentnye-plity.md)
   * [10.3 Правило именования категории "Крыши"](reglament-bim/pravila-imenovaniya-soderzhimogo-revit/pravilo-imenovaniya-kategorii-kryshi.md)
   * [10.4 Правило именования категории "Лестницы"](reglament-bim/pravila-imenovaniya-soderzhimogo-revit/pravilo-imenovaniya-kategorii-lestnicy.md)
   * [10.5 Правило именования категории "Трубы"](reglament-bim/pravila-imenovaniya-soderzhimogo-revit/pravilo-imenovaniya-kategorii-truby.md)
