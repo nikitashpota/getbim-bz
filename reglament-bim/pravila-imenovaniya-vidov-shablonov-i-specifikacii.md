@@ -2,13 +2,13 @@
 icon: file-signature
 ---
 
-# Правила именования видов, шаблонов и спецификаций
+# 7. Правила именования видов, шаблонов и спецификаций
 
 ### Правила именования видов
 
 **Схема именования вида:**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="65">№</th><th width="173">Поле</th><th width="227">Обязательность</th><th>Описание</th></tr></thead><tbody><tr><td>(1)</td><td>Индекс вида</td><td>Обязательно</td><td>Определяет назначение вида (см. таблицу 1)</td></tr><tr><td>(2)</td><td>Раздел</td><td>Обязательно</td><td>Раздел (или подраздел) проекта</td></tr><tr><td>(3)</td><td>Стадия</td><td>Обязательно для индекса <code>О</code></td><td>Стадия проекта</td></tr><tr><td>(4)</td><td>Уровень с отметкой</td><td>Обязательно для планов этажей и потолков</td><td>Обозначение уровня в формате <code>[Номер уровня]_[Отметка уровня]</code></td></tr><tr><td>(5)</td><td>Код семейства вида</td><td>Обязательно</td><td>Код типа вида (см. таблицу 2)</td></tr><tr><td>(6)</td><td>Описание</td><td>Опционально</td><td>Название вида в штампе</td></tr></tbody></table>
 
@@ -24,7 +24,7 @@ icon: file-signature
 
 Шаблон вида именуется аналогично видам. **Схема именования:**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Описание полей см. в разделе [Правила именования видов](pravila-imenovaniya-vidov-shablonov-i-specifikacii.md#pravila-imenovaniya-vidov)
 
