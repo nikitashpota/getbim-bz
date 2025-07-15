@@ -1,19 +1,8 @@
 ---
 icon: people-group
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# Роли и обязанности
+# 1. Роли и обязанности
 
 ### Группа BIM (ТИМ)
 
