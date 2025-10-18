@@ -48,6 +48,7 @@
     * [1.1.1 Поворот вида на плане](instrukcii/1.-obshie-instrukcii/1.1-instrukcii-dlya-vidov-i-oformleniya/1.1.1-povorot-vida-na-plane.md)
 * [2. Инструкции по моделированию АР](instrukcii/2.-instrukcii-po-modelirovaniyu-ar/README.md)
   * [2.1 Инструкция по подсчёту квартирографии](instrukcii/2.-instrukcii-po-modelirovaniyu-ar/2.1-instrukciya-po-podschyotu-kvartirografii.md)
+  * [2.2 Инструкция по анализу инсоляции](instrukcii/2.-instrukcii-po-modelirovaniyu-ar/2.2-instrukciya-po-analizu-insolyacii.md)
 * [3. Инструкция по моделированию КР](instrukcii/3.-instrukciya-po-modelirovaniyu-kr/README.md)
   * [3.1 Фундамент](instrukcii/3.-instrukciya-po-modelirovaniyu-kr/3.1-fundament.md)
   * [3.2 Вертикальные конструкции](instrukcii/3.-instrukciya-po-modelirovaniyu-kr/3.2-vertikalnye-konstrukcii.md)
