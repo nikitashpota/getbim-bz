@@ -46,6 +46,7 @@
 * [1. Общие инструкции](instrukcii/1.-obshie-instrukcii/README.md)
   * [1.1 Инструкции для видов и оформления](instrukcii/1.-obshie-instrukcii/1.1-instrukcii-dlya-vidov-i-oformleniya/README.md)
     * [1.1.1 Поворот вида на плане](instrukcii/1.-obshie-instrukcii/1.1-instrukcii-dlya-vidov-i-oformleniya/1.1.1-povorot-vida-na-plane.md)
+  * [1.2 Инструкция по координации и BIM Monitor](instrukcii/1.-obshie-instrukcii/1.2-instrukciya-po-koordinacii-i-bim-monitor.md)
 * [2. Инструкции по моделированию АР](instrukcii/2.-instrukcii-po-modelirovaniyu-ar/README.md)
   * [2.1 Инструкция по подсчёту квартирографии](instrukcii/2.-instrukcii-po-modelirovaniyu-ar/2.1-instrukciya-po-podschyotu-kvartirografii.md)
   * [2.2 Инструкция по анализу инсоляции](instrukcii/2.-instrukcii-po-modelirovaniyu-ar/2.2-instrukciya-po-analizu-insolyacii.md)
@@ -55,7 +56,3 @@
   * [3.3 Горизонтальные конструкции](instrukcii/3.-instrukciya-po-modelirovaniyu-kr/3.3-gorizontalnye-konstrukcii.md)
   * [3.4 Лестницы](instrukcii/3.-instrukciya-po-modelirovaniyu-kr/3.4-lestnicy.md)
   * [Копирование железобетонных конструкций из модели АР](instrukcii/3.-instrukciya-po-modelirovaniyu-kr/kopirovanie-zhelezobetonnykh-konstrukcii-iz-modeli-ar.md)
-
-***
-
-* [1.2 Инструкция координация осей через "Менеджер осей"](1.2-instrukciya-koordinaciya-osei-cherez-menedzher-osei.md)
