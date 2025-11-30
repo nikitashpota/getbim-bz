@@ -55,3 +55,7 @@
   * [3.3 Горизонтальные конструкции](instrukcii/3.-instrukciya-po-modelirovaniyu-kr/3.3-gorizontalnye-konstrukcii.md)
   * [3.4 Лестницы](instrukcii/3.-instrukciya-po-modelirovaniyu-kr/3.4-lestnicy.md)
   * [Копирование железобетонных конструкций из модели АР](instrukcii/3.-instrukciya-po-modelirovaniyu-kr/kopirovanie-zhelezobetonnykh-konstrukcii-iz-modeli-ar.md)
+
+***
+
+* [1.2 Инструкция координация осей через "Менеджер осей"](1.2-instrukciya-koordinaciya-osei-cherez-menedzher-osei.md)
