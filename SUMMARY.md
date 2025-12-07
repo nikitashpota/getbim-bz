@@ -26,6 +26,7 @@
   * [10.9 Правило именования прочих системных категорий](reglament-bim/pravila-imenovaniya-soderzhimogo-revit/pravilo-imenovaniya-prochikh-sistemnykh-kategorii.md)
   * [10.10 Правило именования загружаемых семейств](reglament-bim/pravila-imenovaniya-soderzhimogo-revit/pravilo-imenovaniya-zagruzhaemykh-semeistv/README.md)
     * [10.10.1 Правило именования типов семейств](reglament-bim/pravila-imenovaniya-soderzhimogo-revit/pravilo-imenovaniya-zagruzhaemykh-semeistv/pravilo-imenovaniya-tipov-semeistv.md)
+    * [10.10.2 Таблица Кодов категории семейств](reglament-bim/pravila-imenovaniya-soderzhimogo-revit/pravilo-imenovaniya-zagruzhaemykh-semeistv/10.10.2-tablica-kodov-kategorii-semeistv.md)
   * [10.11 Правило именования материалов](reglament-bim/pravila-imenovaniya-soderzhimogo-revit/pravilo-imenovaniya-materialov.md)
 * [11. Требования к ЦИМ](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/README.md)
   * [11.1 Требования к составу ЦИМ](reglament-bim/rabota-s-cifrovoi-informacionnoi-modelyu/11.1-trebovaniya-k-sostavu-cim.md)
